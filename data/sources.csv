@@ -1,0 +1,10 @@
+source_id,url,category,priority,format,last_checked,collected,status,notes
+src_001,https://www.magtu.ru/sveden/document.html,Официальные документы,1,pdf/web,2026-10-04,no,planned,"Устав, правила приёма, приказы о стоимости обучения, ЛНА"
+src_002,https://www.magtu.ru/abit/,Абитуриенту,1,web/pdf,2026-10-04,no,planned,"Сроки приёма, вступительные испытания, индивидуальные достижения"
+src_003,https://www.magtu.ru/sveden/,Сведения об организации,1,web/pdf,2026-10-04,no,planned,"Лицензия, аккредитация, руководитель, отчёты"
+src_004,https://www.magtu.ru/instituty-i-fakultety/,Институты и кафедры,1,web,2026-10-04,no,planned,"Направления подготовки, контакты"
+src_005,https://www.magtu.ru/novosti/,Новости,3,web,2026-10-04,no,optional,"Чанки помечать датой: быстро устаревают"
+src_006,https://newlms.magtu.ru/,Портал обучения,2,web,2026-10-04,no,restricted,"Доступ ограничен; только общедоступные страницы"
+src_007,https://timetable.magtu.ru/,Расписание,2,web/api,2026-10-04,no,dynamic,"Динамические данные: не зашивать в базу, подтягивать по API"
+src_008,https://www.consultant.ru/document/cons_doc_LAW_87470/,Законодательство,2,web,2026-10-04,no,planned,"ФЗ-273 «Об образовании» и др. нормативные акты"
+src_009,https://vk.ru/nmstu,Соцсети,3,web,2026-10-04,no,optional,"Только официальное сообщество вуза"

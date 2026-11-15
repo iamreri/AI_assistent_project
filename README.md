@@ -35,7 +35,3 @@ RAG-ассистент, который отвечает на вопросы ст
 - `benchmark_results.csv` — ответы ИИ на тесты;
 - `chat.py` — интерактивный чат для общения с ассистентом.
 
-## Как запустить
-1. Установить зависимости (если не установлены):
-   ```bash
-   pip install chromadb sentence-transformers openai python-dotenv httpx requests pandas
